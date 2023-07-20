@@ -1,4 +1,6 @@
 # python-advanced
+Books & Resources:
+- Fluent-Python 
 
 The mantras that you should remember when optimizing your code are outlined here:
 
