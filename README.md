@@ -10,6 +10,11 @@ Make it right: We want to ensure that the design of the program is solid. Refact
 
 Make it fast: Once our program is working and well structured, we can focus on performance optimization. We may also want to optimize memory usage if that constitutes an issue.
 
+Iterators: 
 Resources:
 - https://ioflood.com/blog/python-iterator/
-- https://github.com/fbaptiste/python-deepdive/blob/main/Part%202/Section%2004%20-%20Iterables%20and%20Iterators/01%20-%20Iterating%20Collections.ipynb 
+- https://github.com/fbaptiste/python-deepdive/blob/main/Part%202/Section%2004%20-%20Iterables%20and%20Iterators/01%20-%20Iterating%20Collections.ipynb
+- https://zetcode.com/lang/python/itergener/
+- Exploring Infinite Iterators in Python’s itertools https://www.kdnuggets.com/exploring-infinite-iterators-in-python-itertools
+- How to Iterate Through a Dictionary in Python https://realpython.com/iterate-through-dictionary-python/
+- Python Difference Between Iterable And Iterator Tutorial https://gamedevacademy.org/python-difference-between-iterable-and-iterator-tutorial-complete-guide/ 
