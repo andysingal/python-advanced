@@ -17,4 +17,6 @@ Resources:
 - https://zetcode.com/lang/python/itergener/
 - Exploring Infinite Iterators in Python’s itertools https://www.kdnuggets.com/exploring-infinite-iterators-in-python-itertools
 - How to Iterate Through a Dictionary in Python https://realpython.com/iterate-through-dictionary-python/
-- Python Difference Between Iterable And Iterator Tutorial https://gamedevacademy.org/python-difference-between-iterable-and-iterator-tutorial-complete-guide/ 
+- Python Difference Between Iterable And Iterator Tutorial https://gamedevacademy.org/python-difference-between-iterable-and-iterator-tutorial-complete-guide/
+- 
+<img width="764" alt="Screenshot 2023-11-02 at 12 27 29 PM" src="https://github.com/andysingal/python-advanced/assets/20493493/bff64811-363c-4f78-8b15-3c7053a08eda">
