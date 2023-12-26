@@ -1,1 +1,2 @@
-
+- https://www.bentoml.com/blog/building-a-production-ready-langchain-application-with-bentoml-and-openllm
+- Accessing Watsonx Models from LangChain https://heidloff.net/article/watsonx-langchain/ 
