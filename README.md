@@ -20,3 +20,6 @@ Resources:
 - Python Difference Between Iterable And Iterator Tutorial https://gamedevacademy.org/python-difference-between-iterable-and-iterator-tutorial-complete-guide/
 - 
 <img width="764" alt="Screenshot 2023-11-02 at 12 27 29 PM" src="https://github.com/andysingal/python-advanced/assets/20493493/bff64811-363c-4f78-8b15-3c7053a08eda">
+
+
+<img width="826" alt="Screenshot 2024-03-14 at 9 07 41 AM" src="https://github.com/andysingal/python-advanced/assets/20493493/bfa05893-0c06-4719-9191-eb08c3e139d7">
