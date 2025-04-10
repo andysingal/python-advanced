@@ -6,7 +6,19 @@ The asyncio library is a primary tool for asynchronous programming in Python. It
 - asyncio is used as a foundation for multiple Python asynchronous frameworks that provide high-performance network and web-servers, database connection libraries, distributed task queues, etc.
 - asyncio is often a perfect fit for IO-bound and high-level structured network code.
 
+```py
+import asyncio
 
+async def main():
+      print(('hello...')
+      print('...world')
+      return 'bye'
+
+try:
+    result.send(None)
+except StopIteration as e:
+     print('result was:', e.value)
+``` 
 
 #### Resources
 - https://github.com/xiaopeng163/asyncio-demo/tree/master
