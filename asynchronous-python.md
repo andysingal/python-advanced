@@ -23,3 +23,4 @@ except StopIteration as e:
 
 #### Resources
 - https://github.com/xiaopeng163/asyncio-demo/tree/master
+- [Webscraping-async](https://github.com/tecladocode/complete-python-course/blob/master/course_contents/13_async_development/projects/async_scraping/pages/all_books_page.py)
